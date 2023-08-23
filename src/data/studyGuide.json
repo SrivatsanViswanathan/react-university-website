@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Quizzes",
+    "container": [
+      {
+        "name": "Quiz Study Guide",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/QuizStudyGuide/QuizStudyGuide.pdf"
+      },
+      {
+        "name": "Quiz 1",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/Quizes/QuizV1ANS.pdf"
+      },
+      {
+        "name": "Quiz 2",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/Quizes/QuizV2ANS.pdf"
+      },
+      {
+        "name": "Quiz 3",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/Quizes/QuizV3ANS.pdf"
+      },
+      {
+        "name": "Quiz 4",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/Quizes/QuizV4ANS.pdf"
+      },
+      {
+        "name": "Quiz 5",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/Quizes/QuizV5ANS.pdf"
+      },
+      {
+        "name": "Quiz 6",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/Quizes/QuizV6ANS.pdf"
+      },
+      {
+        "name": "Quiz 7",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/Quizes/QuizV7ANS.pdf"
+      },
+      {
+        "name": "Quiz 8 (Old Quiz)",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/quizOLD.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Midterms",
+    "container": [
+      {
+        "name": "Recent Midterm",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/MidTerm_2012.pdf"
+      },
+      {
+        "name": "Midterm Study Guide",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/538MidtermStudyGuide-2010.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Final Exams",
+    "container": [
+      {
+        "name": "Final Study Guide",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/FinalStudyGuide/FinalStudyGuide.pdf"
+      }
+    ]
+  }
+]

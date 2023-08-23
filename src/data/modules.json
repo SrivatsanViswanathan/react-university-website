@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Coding Standards",
+    "container": [
+      {
+        "name": "General Coding Standards",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/CodingStd/CodingStdGen/index.html"
+      },
+      {
+        "name": "Assembly Coding Standards",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/CodingStd/CodingStdAsm/index.html"
+      },
+      {
+        "name": "C Coding Standards",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/CodingStd/CodingStdC/index.html"
+      }
+    ]
+  },
+  {
+    "title": "Modules",
+    "container": [
+      {
+        "name": "STDIO",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/modules/stdio.html"
+      },
+      {
+        "name": "STDLIB",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/modules/stdlib.html"
+      },
+      {
+        "name": "STRINGS",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/modules/strings.html"
+      },
+      {
+        "name": "TIMER",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/modules/timer.html"
+      }
+    ]
+  }
+]

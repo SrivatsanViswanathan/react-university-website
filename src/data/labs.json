@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Installation Guide",
+    "container": [
+      {
+        "name": "Windows",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/Installing%20CodWarrior-V2.pdf"
+      },
+      {
+        "name": "MacOS",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/ImportingCodeWarrior.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Reference Manual",
+    "container": [
+      {
+        "name": "HCS12",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/S12CPUV2.pdf"
+      },
+      {
+        "name": "9S12C",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/MC9S12C128V1.pdf"
+      },
+      {
+        "name": "9S12D User Guide",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/9S12DT128DGV2.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Labs",
+    "container": [
+      {
+        "name": "Lab 1",
+        "title": "Using the CodeWarrior IDE and Introduction to Assembly Programming",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/Labs/lab1.pdf",
+        "faq": "-----"
+      },
+      {
+        "name": "Lab 2",
+        "title": "Programming the I/O Devices",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/Labs/lab2.pdf",
+        "faq": "-----"
+      },
+      {
+        "name": "Lab 3",
+        "title": "Battery and Bumper Displays",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/Labs/lab3.pdf",
+        "faq": "-----"
+      },
+      {
+        "name": "Lab 4",
+        "title": "Motor Control and Using the Hardware Timer",
+        "link": "https://www.ecb.torontomu.ca/~courses/coe538/Labs/lab4.pdf",
+        "faq": "https://www.ecb.torontomu.ca/~courses/coe538/FAQlab4.html"
+      },
+      {
+        "name": ["Lab 5", "Alt Approach"],
+        "title": "Robot Roaming Program",
+        "link": [
+          "https://www.ecb.torontomu.ca/~courses/coe538/Labs/lab5.pdf",
+          "https://www.ecb.torontomu.ca/~courses/coe538/altLab5.html"
+        ],
+        "faq": "-----"
+      },
+      {
+        "name": ["Project", "Guider"],
+        "title": "Microprocessor Systems Lab Project Robot Guidance Challenge",
+        "link": [
+          "https://www.ecb.torontomu.ca/~courses/coe538/Project/project.pdf",
+          "https://www.ecb.torontomu.ca/~courses/coe538/Project/Guider.pdf"
+        ],
+        "faq": "https://www.ecb.torontomu.ca/~courses/coe538/FAQlab4.html"
+      }
+    ]
+  }
+]

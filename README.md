@@ -8,6 +8,7 @@ This is a website for the COE 538 Microprocessors course in Toronto Metropolitan
 - CSS and Styled Components for styling the website
 - Javascript for rendering the content on the website and for dynamic behaviour
 - React for creating reusable components and help with management of data
+- React Router for managing navigation within the website
 - JSON for storing data
 
 # Images

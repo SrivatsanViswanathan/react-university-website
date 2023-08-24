@@ -12,8 +12,8 @@ This is a website for the COE 538 Microprocessors course in Toronto Metropolitan
 
 # Images
 
-![images_readme/picture](/1.PNG)
-![images_readme/picture](/2.PNG)
+![picture](images_readme/1.PNG)
+![picture](images_readme/2.PNG)
 
 # Link
 

@@ -2,6 +2,8 @@
 
 This is a website for the COE 538 Microprocessors course in Toronto Metropolitan University (formerly Ryerson University). The current official website is purely HTML and this new website provides a better user experience for any students taking the course. This was done as a personal project, it's not official and should not be used as it is.
 
+https://react-university-website.netlify.app
+
 # Tools Used
 
 - HTML for displaying the content

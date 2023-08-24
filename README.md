@@ -10,6 +10,7 @@ This is a website for the COE 538 Microprocessors course in Toronto Metropolitan
 - React for creating reusable components and help with management of data
 - React Router for managing navigation within the website
 - JSON for storing data
+- Vite for fast development and optimized production builds
 
 # Images
 

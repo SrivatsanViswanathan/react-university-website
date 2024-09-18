@@ -25,4 +25,4 @@ Link: https://react-university-website.netlify.app
 
 ## Disclaimer
 
-All of the links take you to information you can get from the official website: https://www.ecb.torontomu.ca/~courses/coe538/. If you do not want the links to work please contact me through email at sriv.viswanathan@gmail.com and I will remove the functionality.
+All of the links take you to information you can get from the official website: https://www.ecb.torontomu.ca/~courses/coe538/. 
